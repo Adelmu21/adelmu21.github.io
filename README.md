@@ -26,9 +26,9 @@
         
         <div class="topnav-inner">
             <a href="./MyWebsite.html" class="active">Home</a>
-            <a href="./projects.html">projects</a>
+            <!--<a href="./projects.html">projects</a>
             <a href="./contact.html">Contact</a>
-            <a href="./about.html">About</a>
+            <a href="./about.html">About</a>-->
             <a href="javascript:void(0);" class="icon" onclick="myFunction()">
              <i class="fa fa-bars"></i>
             </a>
