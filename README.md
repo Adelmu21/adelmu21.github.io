@@ -1,4 +1,4 @@
-https://www.safersociety.com/wp-content/uploads/2018/04/Gif-animation-hello.gif
+![MasterHead](https://www.safersociety.com/wp-content/uploads/2018/04/Gif-animation-hello.gif)
 
 # An introductory website featuring a little bit about myself
 
