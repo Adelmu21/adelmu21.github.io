@@ -151,6 +151,10 @@ img {
   div p {
     position: relative;
   }
+ 
+  p {
+    position: relative;
+  }
 
   div {
     position: relative;
