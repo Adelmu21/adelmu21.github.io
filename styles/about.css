@@ -153,12 +153,18 @@ img {
   }
  
   p {
-    display: flex;
+    /*display: flex;*/
     position: relative;
     align-items: center;
     justify-content: center;
   }
 
+  h4 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+  }
   div {
     position: relative;
   }
